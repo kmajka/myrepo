@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-to jest plik info.txt dla branch_1
-=======
 to jest plik info.txt dla branch_dev
->>>>>>> 0e5c84d (info.txt dev)
